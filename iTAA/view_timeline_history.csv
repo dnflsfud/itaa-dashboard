@@ -1,0 +1,2 @@
+Pair_ID,Long_Asset,Short_Asset,Signal,Start_Date,End_Date,Status,Reason
+1,US Tech,US Dow,2.0,2013-01-03,,Active,Initial Portfolio
