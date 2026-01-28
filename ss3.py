@@ -5428,7 +5428,7 @@ def main():
             import os
 
             # 기본 디렉토리
-            base_dir = r'C:\Users\westl\PycharmProjects\pythonProject\venv_vf\Macquarie\iTAA'
+            base_dir = data_dir  # Streamlit Cloud compatible
 
             # 수익률 데이터
             actual_returns_df = pd.read_csv(
